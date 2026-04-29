@@ -1,0 +1,11 @@
+# SOP: Microsoft Earnings Playbook
+
+## Strategy A: The Defensive Iron Condor
+- **When to Use:** IV Rank > 50, Neutral market sentiment.
+- **Goal:** Exit at 50% profit within 24-48 hours.
+- **Risk Check:** Ensure wings are outside the 1-Standard Deviation move.
+
+## Strategy B: The Bullish BWB (Broken Wing)
+- **When to Use:** Bullish conviction, Call Skew is present.
+- **Goal:** Zero upside risk; target the "Pin" for 300%+ ROI.
+- **Risk Check:** Ensure upper wing width covers potential "Moon" scenarios.
