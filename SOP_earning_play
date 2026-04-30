@@ -20,3 +20,15 @@
 * **Net Profit:** $1.11 ($111 per contract)
 * **ROI on Risk:** ~33% (on the $329 max risk)
 * **Status:** Trade closed at 9:45 AM. Capital released.
+# Strategy Pivot: Risk Mitigation
+* **Date:** 2026-04-30
+* **Review:** MSFT Earnings IC was profitable ($1.11), but GOOGL move proves the "Binary Risk" is too high for a core retirement strategy.
+* **New Directive:** Focus on 45 DTE high-liquidity underlyings (SPY, QQQ, IWM) outside of earnings windows.
+* **Goal:** Eliminate "Gap Risk" and prioritize capital preservation.
+# AAPL Earnings Bull Put Spread (265/260)
+* **Entry Date:** 2026-04-30
+* **Credit:** $1.22 (Upgraded from $1.09)
+* **Max Risk:** $3.78
+* **Market Condition:** Tim Cook's final earnings call as CEO. 
+* **Logic:** Utilizing high earnings IV to sell insurance below the expected move ($10.15 cushion).
+* **Status:** Awaiting Morning IV Crush.
